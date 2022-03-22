@@ -1,0 +1,28 @@
+{
+	"name": "dark-royal-gold",
+	"displayName": "Royal Gold (Dark)",
+	"description": "A dark UI with a blue and gold color scheme.",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"icon": "image/icon.png",
+	"keywords": ["dark", "royal", "gold", "theme", "dark-blue", "yellow", "dark-yellow", "blue", "dark-blue"],
+	"version": "0.0.4",
+	"publisher": "Fyelne",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Royal Gold (Dark)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-royal-gold color-theme.json"
+			}
+		]
+	}
+}
