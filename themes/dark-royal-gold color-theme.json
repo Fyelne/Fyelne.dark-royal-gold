@@ -232,6 +232,13 @@
 			}
 		},
 		{
+			"name": "Character escape",
+			"scope": "constant.character.escape",
+			"settings": {
+			  "foreground": "#B35B5B"
+			}
+		},		  
+		{
 			"scope": "comment",
 			"settings": {
 				"foreground": "#048B9A"
