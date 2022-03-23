@@ -6,8 +6,13 @@
 		"color": "#000000",
 		"theme": "dark"
 	},
+	"homepage": "https://github.com/Fyelne/Fyelne.dark-royal-gold/blob/master/README.md",
+	"repository":{
+		"type": "git",
+		"url": "https://github.com/Fyelne/Fyelne.dark-royal-gold.git"
+	},
 	"icon": "image/icon.png",
-	"keywords": ["dark", "royal", "gold", "theme", "dark-blue", "yellow", "dark-yellow", "blue", "dark-blue"],
+	"keywords": ["dark", "royal", "gold", "dark-gold", "theme", "dark-blue", "yellow", "dark-yellow", "blue"],
 	"version": "0.0.4",
 	"publisher": "Fyelne",
 	"engines": {
